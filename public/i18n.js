@@ -18,7 +18,7 @@ find_title:'Find Your Way',dir_b:'Get Baarat Directions',dir_w:'Get Walima Direc
 inv_title:'Your Presence Is Our Greatest Gift',inv1:'With the blessings of Allah and the love and support of our families, we warmly invite you to join us as we celebrate the wedding of Obaid ur Rehman and Samra Younas.',inv2:'Your presence, duas, and good wishes will make these special moments even more memorable.',inv3:'We look forward to celebrating together.',
 love:'With Love & Gratitude',names:'Obaid ur Rehman & Samra Younas',looking:'Looking forward to celebrating with you.',
 save:'Save the Wedding Dates',save_note:'Downloads a calendar file you can open to add the dates.',saved:'Calendar file downloaded. Open it to add the dates to your calendar.',
-foot:'Made with love for our special beginning.',dev:'Developed by',
+foot:'Made with love for our special beginning.',dev:'Developed by',phone:'Phone',email:'Email',
 h_calc:'Hijri dates are calculated and may differ by a day depending on local moon sighting.',h_ver:'Verified date',h_calcl:'Calculated',
 lang_set:'Language: English',theme_set:'Theme: ',title:'Obaid & Samra | Wedding Invitation',desc:'Join us in celebrating the wedding of Obaid ur Rehman and Samra Younas, 29–31 October 2026, in Chiniot, Pakistan.'},
 ur:{
@@ -39,7 +39,7 @@ find_title:'راستہ تلاش کریں',dir_b:'بارات کے لیے راست
 inv_title:'آپ کی موجودگی ہمارے لیے سب سے بڑا تحفہ ہے',inv1:'اللہ کے فضل و کرم اور اپنے اہلِ خانہ کی محبت اور تعاون سے، ہم آپ کو عبید الرحمٰن اور سمرا یونس کی شادی کی خوشیوں میں شرکت کی پُرخلوص دعوت دیتے ہیں۔',inv2:'آپ کی آمد، دعائیں اور نیک تمنائیں ان خاص لمحات کو مزید یادگار بنا دیں گی۔',inv3:'ہم آپ کے ساتھ مل کر خوشیاں منانے کے منتظر ہیں۔',
 love:'محبت اور شکر گزاری کے ساتھ',names:'عبید الرحمٰن اور سمرا یونس',looking:'آپ کے ساتھ خوشیاں منانے کے منتظر ہیں۔',
 save:'شادی کی تاریخیں محفوظ کریں',save_note:'کیلنڈر فائل ڈاؤن لوڈ ہوگی، اسے کھول کر تاریخیں اپنے کیلنڈر میں شامل کریں۔',saved:'کیلنڈر فائل ڈاؤن لوڈ ہو گئی ہے۔ اسے کھول کر تاریخیں اپنے کیلنڈر میں شامل کریں۔',
-foot:'ہماری نئی زندگی کے آغاز پر محبت کے ساتھ۔',dev:'تیار کنندہ:',
+foot:'ہماری نئی زندگی کے آغاز پر محبت کے ساتھ۔',dev:'تیار کنندہ:',phone:'فون',email:'ای میل',
 h_calc:'ہجری تاریخیں حسابی ہیں اور مقامی رویتِ ہلال کے مطابق ایک دن کے فرق کا امکان ہے۔',h_ver:'تصدیق شدہ تاریخ',h_calcl:'حسابی',
 lang_set:'زبان: اردو',theme_set:'انداز: ',title:'عبید اور سمرا | دعوتِ ولیمہ و شادی',desc:'عبید الرحمٰن اور سمرا یونس کی شادی میں شرکت کی دعوت، ۱۷ تا ۱۹ جمادی الاول، ۱۴۴۸ ہجری، چنیوٹ، پاکستان۔'}};
 
