@@ -2,7 +2,7 @@
 /* ===== Translations ===== */
 const T={en:{
 nav_couple:'The Couple',nav_events:'Celebrations',nav_venue:'Venues',light:'Light',dark:'Dark',lang_aria:'Language',theme_aria:'Colour theme',scroll:'Scroll to countdown',
-tag:'Together with their families',groom:'Obaid ur Rehman',bride:'Samra Yonous',son:'Son of',dau:'Daughter of',gf:'Hajji Ali Muhammad Nasir Mughal',bf:'Muhammad Yonous Mughal',
+tag:'Together with their families',groom:'Obaid ur Rehman',bride:'Samra Younas',son:'Son of',dau:'Daughter of',gf:'Hajji Ali Muhammad Nasir Mughal',bf:'Muhammad Younas',
 invite:'Joyfully invite you to celebrate their wedding',range:'29 — 31 October 2026',range_s:'29–31 October 2026',place:'Chiniot, Pakistan',
 cd_title:'Counting Down to Our Celebrations',days:'Days',hours:'Hours',mins:'Minutes',secs:'Seconds',
 cd_mehndi:'Until Mehndi — time to be announced (counting from the start of 29 October, PKT)',cd_baarat:'Until Baarat departure — 11:00 AM PKT',cd_walima:'Until Walima — 1:00 PM PKT',
@@ -15,15 +15,15 @@ mehndi_line:'A celebration of color, tradition, and joy.',tba:'Venue and timing 
 t_baarat:'11:00 AM',t_walima:'1:00 PM',dep_note:'Departure time — not the ceremony start.',
 v_baarat:'Al-Rehman Marque',a_baarat:'Faisalabad Road, Chiniot, Pakistan',v_walima:'Rajpoot Marriage Hall',a_walima:'Sargodha Road, Chiniot, Pakistan',
 find_title:'Find Your Way',dir_b:'Get Baarat Directions',dir_w:'Get Walima Directions',mehndi_dir:'Mehndi directions will be shared once the venue is confirmed.',
-inv_title:'Your Presence Is Our Greatest Gift',inv1:'With the blessings of Allah and the love and support of our families, we warmly invite you to join us as we celebrate the wedding of Obaid ur Rehman and Samra Yonous.',inv2:'Your presence, duas, and good wishes will make these special moments even more memorable.',inv3:'We look forward to celebrating together.',
-love:'With Love & Gratitude',names:'Obaid ur Rehman & Samra Yonous',looking:'Looking forward to celebrating with you.',
+inv_title:'Your Presence Is Our Greatest Gift',inv1:'With the blessings of Allah and the love and support of our families, we warmly invite you to join us as we celebrate the wedding of Obaid ur Rehman and Samra Younas.',inv2:'Your presence, duas, and good wishes will make these special moments even more memorable.',inv3:'We look forward to celebrating together.',
+love:'With Love & Gratitude',names:'Obaid ur Rehman & Samra Younas',looking:'Looking forward to celebrating with you.',
 save:'Save the Wedding Dates',save_note:'Downloads a calendar file you can open to add the dates.',saved:'Calendar file downloaded. Open it to add the dates to your calendar.',
 foot:'Made with love for our special beginning.',dev:'Developed by',
 h_calc:'Hijri dates are calculated and may differ by a day depending on local moon sighting.',h_ver:'Verified date',h_calcl:'Calculated',
-lang_set:'Language: English',theme_set:'Theme: ',title:'Obaid & Samra | Wedding Invitation',desc:'Join us in celebrating the wedding of Obaid ur Rehman and Samra Yonous, 29–31 October 2026, in Chiniot, Pakistan.'},
+lang_set:'Language: English',theme_set:'Theme: ',title:'Obaid & Samra | Wedding Invitation',desc:'Join us in celebrating the wedding of Obaid ur Rehman and Samra Younas, 29–31 October 2026, in Chiniot, Pakistan.'},
 ur:{
 nav_couple:'دلہا دلہن',nav_events:'تقریبات',nav_venue:'مقامات',light:'روشن',dark:'تاریک',lang_aria:'زبان',theme_aria:'رنگوں کا انداز',scroll:'کاؤنٹ ڈاؤن تک جائیں',
-tag:'اپنے اہلِ خانہ کے ہمراہ',groom:'عبید الرحمٰن',bride:'سمرا یونس',son:'فرزندِ',dau:'صاحبزادیِ',gf:'حاجی علی محمد ناصر مغل',bf:'محمد یونس مغل',
+tag:'اپنے اہلِ خانہ کے ہمراہ',groom:'عبید الرحمٰن',bride:'سمرا یونس',son:'فرزندِ',dau:'صاحبزادیِ',gf:'حاجی علی محمد ناصر مغل',bf:'محمد یونس',
 invite:'آپ کو اپنی شادی کی خوشیوں میں شریک ہونے کی دلی دعوت دیتے ہیں',range:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',range_s:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',place:'چنیوٹ، پاکستان',
 cd_title:'ہماری تقریبات میں باقی وقت',days:'دن',hours:'گھنٹے',mins:'منٹ',secs:'سیکنڈ',
 cd_mehndi:'مہندی تک — وقت کا اعلان بعد میں ہوگا (۲۹ اکتوبر کے آغاز سے شمار)',cd_baarat:'بارات کی روانگی تک — صبح ۱۱:۰۰ بجے',cd_walima:'ولیمہ تک — دوپہر ۱:۰۰ بجے',
