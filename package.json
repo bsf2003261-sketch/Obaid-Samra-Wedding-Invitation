@@ -1,0 +1,10 @@
+{
+  "name": "obaid-samra-wedding",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bilingual (English/Urdu) Pakistani wedding invitation — Tailwind CSS + JavaScript",
+  "scripts": {
+    "dev": "npx serve public",
+    "check": "node scripts/check.js"
+  }
+}
