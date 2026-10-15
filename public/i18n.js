@@ -2,7 +2,7 @@
 /* ===== Translations ===== */
 const T={en:{
 nav_couple:'The Couple',nav_events:'Celebrations',nav_venue:'Venues',light:'Light',dark:'Dark',lang_aria:'Language',theme_aria:'Colour theme',scroll:'Scroll to countdown',
-tag:'Together with their families',groom:'Obaid ur Rehman',bride:'Samra Younas',son:'Son of',dau:'Daughter of',gf:'Hajji Ali Muhammad Nasir Mughal',bf:'Muhammad Younas',
+tag:'Together with their families',groom:'Obaid ur Rehman',bride:'Samra Younas',son:'Son of',dau:'Daughter of',gf:'Hajji Ali Muhammad Nasir Mughal',bf:'Muhammad Younas Mughal',
 invite:'Joyfully invite you to celebrate their wedding',range:'29 — 31 October 2026',range_s:'29–31 October 2026',place:'Chiniot, Pakistan',
 cd_title:'Counting Down to Our Celebrations',days:'Days',hours:'Hours',mins:'Minutes',secs:'Seconds',
 cd_mehndi:'Until Mehndi — time to be announced (counting from the start of 29 October, PKT)',cd_baarat:'Until Baarat departure — 11:00 AM PKT',cd_walima:'Until Walima — 1:00 PM PKT',
@@ -23,7 +23,7 @@ h_calc:'Hijri dates are calculated and may differ by a day depending on local mo
 lang_set:'Language: English',theme_set:'Theme: ',title:'Obaid & Samra | Wedding Invitation',desc:'Join us in celebrating the wedding of Obaid ur Rehman and Samra Younas, 29–31 October 2026, in Chiniot, Pakistan.'},
 ur:{
 nav_couple:'دلہا دلہن',nav_events:'تقریبات',nav_venue:'مقامات',light:'روشن',dark:'تاریک',lang_aria:'زبان',theme_aria:'رنگوں کا انداز',scroll:'کاؤنٹ ڈاؤن تک جائیں',
-tag:'اپنے اہلِ خانہ کے ہمراہ',groom:'عبید الرحمٰن',bride:'سمرا یونس',son:'فرزندِ',dau:'صاحبزادیِ',gf:'حاجی علی محمد ناصر مغل',bf:'محمد یونس',
+tag:'اپنے اہلِ خانہ کے ہمراہ',groom:'عبید الرحمٰن',bride:'سمرا یونس',son:'فرزندِ',dau:'صاحبزادیِ',gf:'حاجی علی محمد ناصر مغل',bf:'محمد یونس مغل',
 invite:'آپ کو اپنی شادی کی خوشیوں میں شریک ہونے کی دلی دعوت دیتے ہیں',range:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',range_s:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',place:'چنیوٹ، پاکستان',
 cd_title:'ہماری تقریبات میں باقی وقت',days:'دن',hours:'گھنٹے',mins:'منٹ',secs:'سیکنڈ',
 cd_mehndi:'مہندی تک — وقت کا اعلان بعد میں ہوگا (۲۹ اکتوبر کے آغاز سے شمار)',cd_baarat:'بارات کی روانگی تک — صبح ۱۱:۰۰ بجے',cd_walima:'ولیمہ تک — دوپہر ۱:۰۰ بجے',
