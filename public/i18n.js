@@ -9,7 +9,7 @@ cd_mehndi:'Until Mehndi — time to be announced (counting from the start of 29 
 done:'Three beautiful days, countless precious memories. Thank you for celebrating with us.',
 couple_title:'The Bride & Groom',groom_l:'The Groom',bride_l:'The Bride',
 hosts_title:'With the Support of Our Families',hosts_intro:'We are grateful to the family members and loved ones who stand beside us as we celebrate this special occasion.',
-gfrel:"Groom's Father",brother_rel:"Groom's Brother",h2:'Molvi Muhammad Umar Abdul Mannan',h3:'Muhammad Ali',h4:'Muhammad Ali',
+gfrel:"Groom's Father",brother_rel:"Groom's Brother",h2:'Molvi Muhammad Umar Abdul Mannan',h3:'Muhammad Sajid Shareef',h4:'Ali Abdul Hannan',h5:'Muhammad Adnan Muavia',
 events_title:'Our Wedding Celebrations',mehndi:'Mehndi',baarat:'Baarat',walima:'Walima',
 mehndi_line:'A celebration of color, tradition, and joy.',tba:'Venue and timing to be announced.',time:'Time',dep:'Departure',
 t_baarat:'11:00 AM',t_walima:'1:00 PM',dep_note:'Departure time — not the ceremony start.',
@@ -24,13 +24,13 @@ lang_set:'Language: English',theme_set:'Theme: ',title:'Obaid & Samra | Wedding 
 ur:{
 nav_couple:'دلہا دلہن',nav_events:'تقریبات',nav_venue:'مقامات',light:'روشن',dark:'تاریک',lang_aria:'زبان',theme_aria:'رنگوں کا انداز',scroll:'کاؤنٹ ڈاؤن تک جائیں',
 tag:'اپنے اہلِ خانہ کے ہمراہ',groom:'عبید الرحمٰن',bride:'سمرا یونس',son:'فرزندِ',dau:'صاحبزادیِ',gf:'حاجی علی محمد ناصر مغل',bf:'محمد یونس مغل',
-invite:'آپ کو اپنی شادی کی خوشیوں میں شریک ہونے کی دلی دعوت دیتے ہیں',range:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',range_s:'۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء',place:'چنیوٹ، پاکستان',
+invite:'آپ کو اپنی شادی کی خوشیوں میں شریک ہونے کی دلی دعوت دیتے ہیں',range:'۱۷ تا ۱۹ جمادی الاول، ۱۴۴۸ ہجری',range_s:'۱۷ تا ۱۹ جمادی الاول، ۱۴۴۸ ہجری',place:'چنیوٹ، پاکستان',
 cd_title:'ہماری تقریبات میں باقی وقت',days:'دن',hours:'گھنٹے',mins:'منٹ',secs:'سیکنڈ',
 cd_mehndi:'مہندی تک — وقت کا اعلان بعد میں ہوگا (۲۹ اکتوبر کے آغاز سے شمار)',cd_baarat:'بارات کی روانگی تک — صبح ۱۱:۰۰ بجے',cd_walima:'ولیمہ تک — دوپہر ۱:۰۰ بجے',
 done:'تین حسین دن، بے شمار یادگار لمحات۔ ہماری خوشیوں میں شریک ہونے کا شکریہ۔',
 couple_title:'دلہا اور دلہن',groom_l:'دولہا',bride_l:'دلہن',
 hosts_title:'ہمارے اہلِ خانہ کے تعاون سے',hosts_intro:'ہم ان تمام اہلِ خانہ اور عزیز و اقارب کے شکر گزار ہیں جو اس خوشی کے موقع پر ہمارے ساتھ کھڑے ہیں۔',
-gfrel:'دولہا کے والد',brother_rel:'دولہا کے بھائی',h2:'مولوی محمد عمر عبدالمنان',h3:'محمد علی',h4:'محمد علی',
+gfrel:'دولہا کے والد',brother_rel:'دولہا کے بھائی',h2:'مولوی محمد عمر عبدالمنان',h3:'محمد ساجد شریف',h4:'علی عبدالحنان',h5:'محمد عدنان معاویہ',
 events_title:'ہماری شادی کی تقریبات',mehndi:'مہندی',baarat:'بارات',walima:'ولیمہ',
 mehndi_line:'رنگوں، روایت اور خوشیوں کا جشن۔',tba:'مقام اور وقت کا اعلان بعد میں کیا جائے گا۔',time:'وقت',dep:'روانگی',
 t_baarat:'صبح ۱۱:۰۰ بجے',t_walima:'دوپہر ۱:۰۰ بجے',dep_note:'یہ روانگی کا وقت ہے، تقریب کے آغاز کا نہیں۔',
@@ -41,7 +41,7 @@ love:'محبت اور شکر گزاری کے ساتھ',names:'عبید الرح�
 save:'شادی کی تاریخیں محفوظ کریں',save_note:'کیلنڈر فائل ڈاؤن لوڈ ہوگی، اسے کھول کر تاریخیں اپنے کیلنڈر میں شامل کریں۔',saved:'کیلنڈر فائل ڈاؤن لوڈ ہو گئی ہے۔ اسے کھول کر تاریخیں اپنے کیلنڈر میں شامل کریں۔',
 foot:'ہماری نئی زندگی کے آغاز پر محبت کے ساتھ۔',dev:'تیار کنندہ:',
 h_calc:'ہجری تاریخیں حسابی ہیں اور مقامی رویتِ ہلال کے مطابق ایک دن کے فرق کا امکان ہے۔',h_ver:'تصدیق شدہ تاریخ',h_calcl:'حسابی',
-lang_set:'زبان: اردو',theme_set:'انداز: ',title:'عبید اور سمرا | دعوتِ ولیمہ و شادی',desc:'عبید الرحمٰن اور سمرا یونس کی شادی میں شرکت کی دعوت، ۲۹ تا ۳۱ اکتوبر ۲۰۲۶ء، چنیوٹ، پاکستان۔'}};
+lang_set:'زبان: اردو',theme_set:'انداز: ',title:'عبید اور سمرا | دعوتِ ولیمہ و شادی',desc:'عبید الرحمٰن اور سمرا یونس کی شادی میں شرکت کی دعوت، ۱۷ تا ۱۹ جمادی الاول، ۱۴۴۸ ہجری، چنیوٹ، پاکستان۔'}};
 
 /* ===== State: one source for language, one for theme ===== */
 const root=document.documentElement,$=s=>document.querySelector(s),$$=s=>[...document.querySelectorAll(s)];

@@ -26,7 +26,7 @@ const unit=(id,k)=>`<div class="u rv z"><b id="${id}">0</b><span>${t(k)}</span><
 const WeddingCountdown=()=>Section('countdown','alt',`${Heading('cd_title')}<div class="flex justify-center gap-2 sm:gap-5 my-7" style="direction:ltr" role="timer">${unit('d','days')}${unit('h','hours')}${unit('m','mins')}${unit('s','secs')}</div><p id="cdlabel" class="rv text-mute max-w-xl mx-auto"></p><p id="done" hidden class="font-serif text-2xl"></p>`);
 const CoupleSection=()=>Section('couple','',`${Heading('couple_title')}<div class="grid gap-6 md:grid-cols-2 mt-9">${Person('groom_l','groom','son','gf')}${Person('bride_l','bride','dau','bf')}</div>`);
 const host=(k,rel)=>`<div class="card rv z"><h3 class="font-serif text-3xl">${t(k)}</h3>${rel?`<p class="text-[13px] text-mute">${t(rel)}</p>`:''}</div>`;
-const HostsSection=()=>Section('hosts','alt',`${Heading('hosts_title')}<p class="rv text-mute max-w-xl mx-auto mb-9">${t('hosts_intro')}</p><div class="grid gap-6 sm:grid-cols-2 max-w-3xl mx-auto">${host('gf','gfrel')}${host('h2','brother_rel')}${host('h3','brother_rel')}${host('h4','brother_rel')}</div>`);
+const HostsSection=()=>Section('hosts','alt',`${Heading('hosts_title')}<p class="rv text-mute max-w-xl mx-auto mb-9">${t('hosts_intro')}</p><div class="grid gap-6 sm:grid-cols-2 max-w-3xl mx-auto">${host('gf','gfrel')}${host('h2','brother_rel')}${host('h3','brother_rel')}${host('h4','brother_rel')}${host('h5','brother_rel')}</div>`);
 
 function EventCard(e,i){
  let body;
