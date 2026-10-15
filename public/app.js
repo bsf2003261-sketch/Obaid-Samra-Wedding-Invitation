@@ -38,7 +38,7 @@ function downloadIcs(){ /* only confirmed times; Mehndi is all-day with no venue
  const L=['BEGIN:VCALENDAR','VERSION:2.0','PRODID:-//Obaid and Samra//Wedding//EN','BEGIN:VTIMEZONE','TZID:Asia/Karachi','BEGIN:STANDARD','DTSTART:19700101T000000','TZOFFSETFROM:+0500','TZOFFSETTO:+0500','TZNAME:PKT','END:STANDARD','END:VTIMEZONE',
   ...ev('mehndi','Mehndi - Obaid & Samra (time to be announced)','20261029',1),
   ...ev('baarat','Baarat departure - Al-Rehman Marque, Faisalabad Road, Chiniot','20261030T110000'),
-  ...ev('walima','Walima - Rajpoot Marriage Hall, Sargodha Road, Chiniot','20261031T140000'),'END:VCALENDAR'];
+  ...ev('walima','Walima - Rajpoot Marriage Hall, Sargodha Road, Chiniot','20261031T130000'),'END:VCALENDAR'];
  const a=document.createElement('a');a.href=URL.createObjectURL(new Blob([L.join('\r\n')],{type:'text/calendar'}));a.download='obaid-samra-wedding.ics';document.body.append(a);a.click();a.remove();say(t('saved'));
 }
 

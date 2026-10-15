@@ -1,6 +1,6 @@
 'use strict';
 /* ===== Countdown (computed from Date.now(); never negative; one interval) ===== */
-const targets=[{k:'cd_mehndi',at:ts(CFG.mehndiFallback.date,CFG.mehndiFallback.time)},{k:'cd_baarat',at:ts('2026-10-30','11:00')},{k:'cd_walima',at:ts('2026-10-31','14:00')}];
+const targets=[{k:'cd_mehndi',at:ts(CFG.mehndiFallback.date,CFG.mehndiFallback.time)},{k:'cd_baarat',at:ts('2026-10-30','11:00')},{k:'cd_walima',at:ts('2026-10-31','13:00')}];
 const num=n=>state.lang==='ur'?new Intl.NumberFormat('ur-PK-u-nu-arabext').format(n):String(n);
 function tick(){
  if(!$('#d'))return;
